@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Coding Portfolio"
-excerpt: "About me"
+excerpt: "Coding Student"
 author_profile: true
 redirect_from: 
   - /about/
