@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Creativity"
-    url: /publications/
+    url: /Creativity/
 
   - title: "Abstraction"
-    url: /talks/    
+    url: /Abstraction/    
 
   - title: "Data"
-    url: /teaching/    
+    url: /Data/    
     
   - title: "Algorithms"
-    url: /portfolio/
+    url: /Algorithms/
         
-  - title: "Programming"
-    url: /year-archive/
+  - title: "Programs"
+    url: /Programs/
     
-  - title: "The Internet"
-    url: /cv/
+  - title: "Internet"
+    url: /Internet/
     
   - title: "Global Impact"
-    url: /markdown/
+    url: /Global Impact/
