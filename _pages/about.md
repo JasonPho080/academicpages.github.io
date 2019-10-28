@@ -18,6 +18,10 @@ redirect_from:
 
 
 <b>Scratch Projects</b>
+
+<p>Duck Paint</p>
+<iframe src="https://scratch.mit.edu/projects/339464950/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 <p>Game Show</p>
 <iframe src="https://scratch.mit.edu/projects/333062479/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe> 
 
@@ -26,5 +30,7 @@ redirect_from:
 
 <p>Game of Tag</p>
 <iframe src="https://scratch.mit.edu/projects/331277190/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
 
 
